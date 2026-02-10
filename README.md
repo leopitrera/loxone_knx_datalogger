@@ -33,7 +33,7 @@ pip install requests
 Antes de ejecutar el script, configura las variables de entorno:
 
 ```bash
-export LOXONE_IP="192.168.1.50"
+export LOXONE_IP="192.168.x.x"
 export LOXONE_PORT="8050"  # Opcional, por defecto 80
 export LOXONE_USER="admin"
 export LOXONE_PASSWORD="tu_contraseña"
